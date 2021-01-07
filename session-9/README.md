@@ -8,7 +8,7 @@ The details of the model varient are specified in the notebooks, text cells.
 
 **2. Cornell dialogue dataset.**
 
-3.
+**3.**
 
 Each dataset is run on two versions of seq2seq models. 1. with out attention. 2. With attention.
 
